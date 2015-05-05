@@ -1,4 +1,4 @@
 # BasicGraphSearch
-Implementation Depth-First search and Breadth-First search.
-Depth search using recursive, Breadth search used queue.
-Implementation Dijkstra's algorithm using dictionary.
+Depth-First search and Breadth-First search implementation.
+Depth search used recursive, Breadth search used queue.
+Dijkstra's algorithm implementation using dictionary.
